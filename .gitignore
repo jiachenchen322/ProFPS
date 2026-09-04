@@ -1,0 +1,13 @@
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# Individual-level data must never be committed
+*.rda
+*.sas7bdat
+*.npy
+*.xlsx
